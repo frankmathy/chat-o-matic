@@ -1,3 +1,4 @@
+// See https://youtu.be/E3NHd-PkLrQ
 const { GraphQLServer } = require('graphql-yoga');
 
 const messages = [];
